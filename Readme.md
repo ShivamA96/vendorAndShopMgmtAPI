@@ -25,8 +25,8 @@ Follow these instructions to set up the project locally.
 1. **Clone the repository** (if you haven't already)
 
    ```bash
-   git clone https://github.com/yourusername/OttermapAssignment.git
-   cd OttermapAssignment
+   git clone https://github.com/yourusername/vendorAndShopMgmtAPI.git
+   cd vendorAndShopMgmtAPI
    ```
 
 ### Create a virtual environment
